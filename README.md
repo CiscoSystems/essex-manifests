@@ -5,7 +5,7 @@ Manifests for essex based OpenStack deployments based on the Cisco Openstack Edi
 
 Different configs are in different branches. 
 
-  git branch <config-name>
+	git branch <config-name>
 
 	git push origin <config-name>
 
